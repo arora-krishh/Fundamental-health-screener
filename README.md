@@ -49,7 +49,7 @@ What it does
     
     Shows all the tickers in the selected sector as badges
     When the user hits Run Screener, it calls the backend and displays results
-    Shows the Top 3 stocks as medal cards (🥇🥈🥉)
+    Shows the Top 3 stocks as medal cards
     Shows the full ranked table with a score bar for every stock
     Has an expandable section explaining what each ratio means
 
